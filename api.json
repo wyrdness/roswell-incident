@@ -1,10 +1,8 @@
 {
-  "category": "UFO_UAP/CONSPIRACY_THEORY",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/roswell-incident",
     "maintainers": [
       {
@@ -18,381 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "roswell-incident",
     "name": "Roswell Incident",
-    "aliases": [
-      {
-        "name": "Roswell UFO Incident",
-        "region": "New Mexico, USA"
-      },
-      {
-        "name": "Roswell Crash",
-        "region": "New Mexico, USA"
-      }
-    ],
-    "category": "UFO_UAP/CONSPIRACY_THEORY",
-    "subcategory": "Crash/Retrieval",
+    "aliases": [],
+    "category": "|_UFO_UAP_/_CONSPIRACY_THEORY_|",
+    "subcategory": "Unknown",
     "tags": [
-      "ufo",
-      "crash",
-      "government-coverup",
-      "extraterrestrial",
-      "new-mexico",
-      "1947",
-      "military",
-      "conspiracy"
+      "folklore",
+      "mythology"
     ],
-    "status": "historical",
+    "status": "documented",
     "description": {
-      "summary": "The most famous UFO incident in history. In July 1947, debris was recovered from a ranch near Roswell, New Mexico. Initially reported as a 'flying disc' by the Army, the story was quickly retracted as a weather balloon. Decades later, witnesses came forward claiming alien bodies and government cover-up.",
-      "full": "The Roswell Incident is the most famous and controversial UFO event in history. On July 8, 1947, the Roswell Army Air Field issued a press release stating they had recovered a 'flying disc' from a ranch near Roswell, New Mexico. Within hours, the story was retracted and explained as a weather balloon. The incident was largely forgotten until the late 1970s when researchers began interviewing witnesses who claimed to have seen alien bodies and exotic debris. The U.S. government later explained the debris as part of Project Mogul, a classified balloon program. Despite official explanations, the Roswell Incident remains the foundation of modern UFO culture and conspiracy theories about government cover-ups of extraterrestrial contact."
+      "summary": "The Roswell Incident is the most famous and controversial UFO event in history.",
+      "full": "The Roswell Incident is the most famous and controversial UFO event in history. On July 8, 1947, the Roswell Army Air Field issued a press release stating they had recovered a \\\"flying disc\\\" from a ranch near Roswell, New Mexico. Within hours, the story was retracted and explained as a weather balloon. The incident was largely forgotten until the late 1970s when researchers began interviewing witnesses who claimed to have seen alien bodies and exotic debris with extraordinary properties. The U.S. government later explained the debris as part of Project Mogul, a classified balloon program designed to detect Soviet nuclear tests. Despite official explanations, the Roswell Incident remains the foundation of modern UFO culture and conspiracy theories about government cover-ups of extraterrestrial contact. Roswell has become the \\\"Alien Capital of the World\\\" and a cultural touchstone for UFO believers worldwide."
     },
     "etymology": {
-      "origin": "Named after Roswell, New Mexico, the nearest city to the debris field location",
-      "meaning": "Site of the alleged crash",
-      "first_use": "1947"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
-      "category": "UFO_UAP/CONSPIRACY_THEORY",
-      "type": "Crash/Retrieval Event",
-      "subtype": "Military Incident",
-      "variant": "Alleged Extraterrestrial"
+      "category": "|_UFO_UAP_/_CONSPIRACY_THEORY_|",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "area-51",
-        "name": "Area 51",
-        "relationship": "related",
-        "description": "Alleged location where Roswell debris/bodies were taken"
-      },
-      {
-        "id": "men-in-black",
-        "name": "Men in Black",
-        "relationship": "related",
-        "description": "Government agents allegedly silencing witnesses"
-      },
-      {
-        "id": "greys",
-        "name": "Greys",
-        "relationship": "related",
-        "description": "Type of aliens allegedly recovered"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
-    "event_details": {
-      "primary_date": "1947-07-08",
-      "discovery_date": "1947-06-14",
-      "location": {
-        "primary": "Foster Ranch, Lincoln County, New Mexico",
-        "secondary": "Roswell Army Air Field",
-        "coordinates": {
-          "latitude": 33.3872,
-          "longitude": -104.5281,
-          "precision": "approximate"
-        }
-      },
-      "key_figures": [
-        {
-          "name": "Mac Brazel",
-          "role": "Rancher who discovered debris",
-          "significance": "First to report finding unusual debris"
-        },
-        {
-          "name": "Major Jesse Marcel",
-          "role": "Intelligence Officer, RAAF",
-          "significance": "First military officer to examine debris"
-        },
-        {
-          "name": "Colonel William Blanchard",
-          "role": "Base Commander, RAAF",
-          "significance": "Authorized 'flying disc' press release"
-        },
-        {
-          "name": "General Roger Ramey",
-          "role": "Commanding General, 8th Air Force",
-          "significance": "Changed story to weather balloon"
-        }
-      ]
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "debris_descriptions": [
-      {
-        "material": "Memory metal",
-        "description": "Thin metal-like material that returned to original shape when crumpled",
-        "source": "Jesse Marcel testimony"
-      },
-      {
-        "material": "I-beams with symbols",
-        "description": "Small structural beams with hieroglyphic-like markings",
-        "source": "Multiple witness accounts"
-      },
-      {
-        "material": "Foil-like material",
-        "description": "Extremely thin, lightweight, could not be cut or burned",
-        "source": "Multiple witness accounts"
-      },
-      {
-        "material": "Fiber optic-like threads",
-        "description": "Thin fibers described as unlike anything known",
-        "source": "Jesse Marcel Jr. testimony"
-      }
-    ],
-    "alleged_bodies": {
-      "description": "Small humanoid bodies with large heads, gray skin",
-      "witness_count": 12,
-      "credibility": "disputed",
-      "first_reported": "1978",
-      "notes": "Body claims emerged 30+ years after event"
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
-  "timeline": [
-    {
-      "date": "1947-06-14",
-      "event": "Debris field discovered",
-      "description": "Mac Brazel discovers unusual debris scattered across Foster Ranch",
-      "significance": "Initial discovery"
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    {
-      "date": "1947-07-07",
-      "event": "Brazel reports to authorities",
-      "description": "Brazel reports debris to Sheriff George Wilcox in Roswell",
-      "significance": "Official notification"
-    },
-    {
-      "date": "1947-07-08",
-      "event": "Flying disc press release",
-      "description": "RAAF issues press release: 'RAAF Captures Flying Saucer on Ranch in Roswell Region'",
-      "significance": "Original story",
-      "source": "Roswell Daily Record"
-    },
-    {
-      "date": "1947-07-08",
-      "event": "Weather balloon explanation",
-      "description": "General Ramey holds press conference, displays weather balloon debris",
-      "significance": "Official retraction/explanation",
-      "source": "Fort Worth Star-Telegram"
-    },
-    {
-      "date": "1947-07-08",
-      "event": "Brazel detained",
-      "description": "Mac Brazel allegedly held at RAAF for several days",
-      "significance": "Witness containment claimed",
-      "credibility": "disputed"
-    },
-    {
-      "date": "1978",
-      "event": "Incident resurgence",
-      "description": "Stanton Friedman interviews Jesse Marcel, reigniting interest",
-      "significance": "Modern UFO investigation begins"
-    },
-    {
-      "date": "1994",
-      "event": "Project Mogul report",
-      "description": "U.S. Air Force releases report identifying debris as Project Mogul balloon",
-      "significance": "Official explanation",
-      "source": "USAF Report"
-    },
-    {
-      "date": "1997",
-      "event": "Crash test dummy report",
-      "description": "USAF attributes alien body claims to crash test dummies from 1950s tests",
-      "significance": "Official explanation for body claims",
-      "source": "USAF Report"
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
     }
-  ],
-
-  "theories": {
-    "extraterrestrial": [
-      {
-        "name": "Alien spacecraft crash",
-        "description": "Extraterrestrial craft crashed, bodies recovered, government cover-up initiated",
-        "proponents": ["Stanton Friedman", "Kevin Randle", "Donald Schmitt"],
-        "evidence_cited": ["Witness testimony", "Debris descriptions", "Military secrecy", "Press release retraction"]
-      }
-    ],
-    "official": [
-      {
-        "name": "Project Mogul",
-        "description": "Debris from classified Project Mogul balloon train designed to detect Soviet nuclear tests",
-        "proponents": ["U.S. Air Force", "Charles B. Moore"],
-        "evidence_cited": ["Balloon materials match", "Flight 4 unaccounted for", "Classified nature explains secrecy"]
-      },
-      {
-        "name": "Crash test dummies",
-        "description": "Alien body claims result from conflated memories of 1950s anthropomorphic test dummies",
-        "proponents": ["U.S. Air Force"],
-        "evidence_cited": ["Test dummy drops in area", "Memory confusion over decades"]
-      }
-    ],
-    "alternative": [
-      {
-        "name": "Soviet craft",
-        "description": "Captured Nazi or Soviet experimental aircraft",
-        "proponents": ["Annie Jacobsen"],
-        "evidence_cited": ["Cold War context", "Experimental aircraft programs"]
-      }
-    ]
   },
-
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
   "evidence": {
-    "physical": [
-      {
-        "type": "debris",
-        "name": "Original debris",
-        "status": "missing",
-        "description": "All original debris allegedly removed by military, never publicly examined",
-        "credibility": "unknown"
-      }
-    ],
-    "photographic": [
-      {
-        "type": "photograph",
-        "name": "Ramey memo",
-        "date": "1947-07-08",
-        "description": "Photo of General Ramey holding memo, text partially legible and disputed",
-        "status": "disputed",
-        "analysis": "Various interpretations of memo text, some claim it mentions 'victims'"
-      },
-      {
-        "type": "photograph",
-        "name": "Weather balloon photos",
-        "date": "1947-07-08",
-        "description": "Photos of debris displayed as weather balloon",
-        "status": "verified",
-        "analysis": "Shows weather balloon/radar reflector, disputed if same as original debris"
-      }
-    ],
-    "testimonial": [
-      {
-        "type": "witness testimony",
-        "name": "Jesse Marcel interviews",
-        "date": "1978-present",
-        "description": "Intelligence officer describes exotic debris properties",
-        "credibility": "medium",
-        "notes": "Consistent over time but 30+ year delay"
-      },
-      {
-        "type": "deathbed confession",
-        "name": "Walter Haut statement",
-        "date": "2002",
-        "description": "Public Affairs Officer claims to have seen alien bodies",
-        "credibility": "disputed",
-        "notes": "Sealed until after death, unverifiable"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
-    "impact": {
-      "description": "Roswell has become synonymous with UFOs and government cover-ups. The incident is the foundation of modern UFO culture.",
-      "influences": [
-        "UFO research community established",
-        "Government conspiracy theories mainstreamed",
-        "Roswell became 'Alien Capital of the World'",
-        "Template for crash/retrieval narratives",
-        "X-Files and similar media inspired"
-      ]
-    },
-    "tourism": {
-      "description": "Roswell leverages UFO association for tourism",
-      "attractions": [
-        "International UFO Museum and Research Center",
-        "UFO Festival (annual, July)",
-        "Alien-themed businesses throughout city",
-        "Tourist markers at debris field location"
-      ]
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "The Roswell Incident by Charles Berlitz & William Moore (1980)",
-        "Crash at Corona by Stanton Friedman & Don Berliner (1992)",
-        "The Day After Roswell by Philip Corso (1997)"
-      ],
-      "film_tv": [
-        "Roswell (TV series, 1999-2002)",
-        "Roswell, New Mexico (TV series, 2019-2022)",
-        "Independence Day (1996) - features Area 51 connection",
-        "Taken (miniseries, 2002)"
-      ],
-      "other": [
-        "The X-Files mythology",
-        "Area 51 conspiracy theories",
-        "Countless documentaries"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "government_response": {
-    "official_explanations": [
-      {
-        "date": "1947-07-08",
-        "explanation": "Weather balloon",
-        "details": "Standard weather balloon with radar reflector"
-      },
-      {
-        "date": "1994",
-        "explanation": "Project Mogul",
-        "details": "Classified balloon array for detecting Soviet nuclear tests",
-        "source": "The Roswell Report: Fact vs. Fiction in the New Mexico Desert"
-      },
-      {
-        "date": "1997",
-        "explanation": "Crash test dummies",
-        "details": "Anthropomorphic test dummies dropped in 1950s tests",
-        "source": "The Roswell Report: Case Closed"
-      }
-    ],
-    "classified_status": "Project Mogul was classified until 1990s, explaining initial secrecy"
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "status": {
-    "official": "Explained - Project Mogul balloon",
-    "popular_belief": "Widely disputed - Many believe extraterrestrial crash",
-    "evidence_level": "No physical evidence publicly available",
-    "current_research": "Primarily historical analysis, no new physical evidence expected"
-  },
-
-  "sources": [
-    {
-      "id": "usaf-1994",
-      "type": "government_report",
-      "title": "The Roswell Report: Fact vs. Fiction in the New Mexico Desert",
-      "authors": ["U.S. Air Force"],
-      "publication": "U.S. Government Printing Office",
-      "date": "1994"
-    },
-    {
-      "id": "usaf-1997",
-      "type": "government_report",
-      "title": "The Roswell Report: Case Closed",
-      "authors": ["U.S. Air Force"],
-      "publication": "U.S. Government Printing Office",
-      "date": "1997"
-    },
-    {
-      "id": "friedman-berliner-1992",
-      "type": "book",
-      "title": "Crash at Corona: The U.S. Military Retrieval and Cover-Up of a UFO",
-      "authors": ["Stanton T. Friedman", "Don Berliner"],
-      "publication": "Paragon House",
-      "date": "1992",
-      "isbn": "978-1557785008"
-    },
-    {
-      "id": "berlitz-moore-1980",
-      "type": "book",
-      "title": "The Roswell Incident",
-      "authors": ["Charles Berlitz", "William L. Moore"],
-      "publication": "Grosset & Dunlap",
-      "date": "1980",
-      "isbn": "978-0425074794"
-    }
-  ]
+  "sources": []
 }
