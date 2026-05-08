@@ -1,306 +1,207 @@
 # Roswell Incident
 
-> *"The truth is out there."*
+> The 1947 recovery of debris from a ranch near Corona, New Mexico, by personnel from Roswell Army Air Field, briefly described in an RAAF press release as a 'flying disc' before being officially identified as a weather balloon. From the late 1970s onward, popular UFO literature reframed the recovery as the crash of an extraterrestrial vehicle and the foundation of a long-running US government cover-up.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-historical-orange)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-1-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `roswell-incident` |
-| **Category** | UFO_UAP / CONSPIRACY_THEORY |
-| **Classification** | Crash/Retrieval Event |
-| **Date** | July 1947 |
-| **Location** | Roswell, New Mexico, USA |
-| **Status** | Historical (Officially Explained) |
+| **Category** | UFO_UAP |
+| **Subcategory** | UFO crash retrieval / conspiracy theory |
+| **First recorded** | 1947-06-04 |
+| **Primary range** | The debris field is on the J |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Roswell Incident is the most famous and controversial UFO event in history. On July 8, 1947, the Roswell Army Air Field issued a press release stating they had recovered a "flying disc" from a ranch near Roswell, New Mexico. Within hours, the story was retracted and explained as a weather balloon.
-
-The incident was largely forgotten until the late 1970s when researchers began interviewing witnesses who claimed to have seen alien bodies and exotic debris with extraordinary properties. The U.S. government later explained the debris as part of Project Mogul, a classified balloon program designed to detect Soviet nuclear tests.
-
-Despite official explanations, the Roswell Incident remains the foundation of modern UFO culture and conspiracy theories about government cover-ups of extraterrestrial contact. Roswell has become the "Alien Capital of the World" and a cultural touchstone for UFO believers worldwide.
+In early July 1947, rancher William 'Mac' Brazel found scattered debris on the J. B. Foster sheep ranch near Corona, in Lincoln County, New Mexico. After hearing radio reports of 'flying discs', Brazel reported the find to Sheriff George Wilcox of Chaves County, who notified Roswell Army Air Field. Major Jesse Marcel and Captain Sheridan Cavitt examined the debris on 7 July. On 8 July 1947 the RAAF public information officer, 1st Lt. Walter Haut, issued a press release stating that the field had recovered a 'flying disc'. Within hours, Eighth Air Force commander Brigadier General Roger Ramey publicly reidentified the material as a weather balloon, and the story disappeared from the news. The incident attracted little attention until the late 1970s, when ufologist Stanton Friedman interviewed Marcel (1978) and Charles Berlitz and William Moore published The Roswell Incident (1980), reframing the recovery as an extraterrestrial event. The 1994 GAO investigation prompted the US Air Force to release reports in 1994 (The Roswell Report: Fact vs. Fiction in the New Mexico Desert) and 1997 (The Roswell Report: Case Closed) identifying the debris as Flight 4 of Project Mogul — a classified high-altitude balloon train designed to detect Soviet nuclear tests — and identifying secondary 'alien body' accounts as conflations with parachute-test dummies dropped between 1953 and 1959. Roswell remains the foundational case of modern UFO conspiracy literature and supports a substantial tourism economy in Roswell, New Mexico.
 
 ---
+## Names & Aliases
 
-## Timeline
+| Name | Origin | Meaning |
+|---|---|---|
+| Roswell UFO Incident | English |  |
+| Roswell Crash | English |  |
+| Foster Ranch Incident | English / New Mexico | After the Foster sheep ranch on which the debris was found |
 
-### The Incident (1947)
+## Etymology
+
+- **Origin**: Named for Roswell Army Air Field, the army installation whose press release made the case famous, located south of Roswell, Chaves County, New Mexico. The actual debris field is on the Foster ranch near Corona, roughly 75 miles north-west of the city.
+- **Meaning**: Place-name; Roswell, New Mexico, is named for early settler Roswell Smith.
+- **First use**: 1947 (Roswell Daily Record headline, 8 July 1947)
+
+---
+## Related Phenomena
+
+- [Kecksburg UFO Incident](../kecksburg-incident/) — _similar_: 1965 alleged crash retrieval in Pennsylvania
+- [Rendlesham Forest Incident](../rendlesham-forest/) — _similar_: 1980 UK military UFO encounter
+- [Majestic-12](../majestic-12/) — _related_: Hoaxed documents purporting to detail a US committee on Roswell crash retrieval
+- [Kenneth Arnold sighting](../kenneth-arnold-sighting/) — _related_: 1947 Mount Rainier sighting that originated the term 'flying saucer' two weeks before Roswell
+
+---
+## Physical Description
+
+- **Morphology**: Documented physical evidence (recovered material, contemporary photographs from Brigadier General Ramey's office, and the 1994/1997 USAF reports) is consistent with the failed Flight 4 of Project Mogul (NYU constant-level balloon train), launched 4 June 1947 from Alamogordo Army Air Field and lost from radar approximately 17 miles from the Foster ranch.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Foil-like metallic debris | Brazel and Marcel described thin, foil-like material that resprang to its original shape after being crumpled | always |
+| Balsa-like beams with symbols | Light wooden or wood-like sticks reportedly bearing pink or purple 'hieroglyph' markings; the 1997 Air Force report identifies these as the radar reflector spars of Project Mogul | common |
+| Rubberized fabric and tape | Pieces of rubberized material and reinforcing tape consistent with neoprene balloon fabric and 'flowered' tape used in Project Mogul | common |
+| Debris field of several hundred yards | Brazel described a debris field roughly 200–300 yards across | always |
+
+## Behavior
+
+- **Activity**: unknown
+- **Disposition**: unknown
+- **Social structure**: unknown
+
+---
+## Distribution
+
+The debris field is on the J. B. Foster sheep ranch in Lincoln County, New Mexico, roughly 75 miles north-west of the city of Roswell. Secondary 'crash sites' and 'body recovery' sites have been claimed at multiple locations across south-central New Mexico in later literature, with no contemporaneous physical evidence.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Foster ranch debris field | New Mexico, United States |  | July 1947 |
+| Roswell Army Air Field | New Mexico, United States |  | 8 July 1947 |
+
+---
+## Historical Timeline
 
 | Date | Event | Significance |
-|------|-------|--------------|
-| June 14, 1947 | Debris field discovered | Mac Brazel finds unusual debris on Foster Ranch |
-| July 7, 1947 | Brazel reports to authorities | Sheriff George Wilcox notified |
-| July 8, 1947 (morning) | "Flying disc" press release | RAAF announces capture of flying saucer |
-| July 8, 1947 (afternoon) | Story retracted | General Ramey announces weather balloon explanation |
-| July 8-10, 1947 | Brazel detained | Rancher allegedly held at base for days |
+|---|---|---|
+| 1947-06-04 | NYU / Project Mogul Flight 4 launched from Alamogordo Army Air Field | Likely physical source of the recovered debris |
+| 1947-06-24 | Kenneth Arnold reports nine crescent-shaped objects near Mount Rainier; press coins 'flying saucer' | Sets the cultural context for the Roswell press response |
+| 1947-07-08 | RAAF public information officer 1st Lt. Walter Haut issues a press release stating that the field has recovered a 'flying disc'; the Roswell Daily Record runs the headline 'RAAF Captures Flying Saucer On Ranch in Roswell Region' | Origin of the case in the public record |
+| 1947-07-09 | Brigadier General Roger Ramey, commander of the Eighth Air Force, holds a press conference identifying the debris as a weather balloon and Rawin radar target | Effective end of the original 1947 story |
+| 1978 | Ufologist Stanton Friedman interviews retired Major Jesse Marcel about the 1947 recovery | Catalyses the modern revival of the case |
+| 1980 | Charles Berlitz and William Moore publish The Roswell Incident | First book-length popular argument that the debris was an alien craft and that the recovery was covered up |
+| 1984-12 | The 'Majestic-12' documents are mailed to Jaime Shandera; later judged a hoax by FBI and academic analysts | Conspiracy-document offshoot of the Roswell narrative |
+| 1991 | Kevin Randle and Donald Schmitt publish UFO Crash at Roswell | Major second-generation Roswell book; Randle later changed positions on details |
+| 1994-09-08 | US General Accounting Office releases its report on Roswell records, completing a request by Congressman Steven Schiff | Triggers the US Air Force's first comprehensive Roswell investigation |
+| 1994 | USAF publishes The Roswell Report: Fact vs. Fiction in the New Mexico Desert, identifying the debris as Project Mogul Flight 4 | Official US government identification of the debris |
+| 1995-08 | Ray Santilli releases 'alien autopsy' footage in London | Major Roswell-adjacent hoax; Santilli admitted in 2006 it was a reconstruction |
+| 1997 | USAF publishes The Roswell Report: Case Closed, identifying secondary 'alien body' accounts as conflations with high-altitude parachute-test dummies dropped 1953–1959 | Official US government explanation of the body-recovery accounts |
 
-### Resurgence (1978-Present)
+---
+## Notable Sightings
 
-| Date | Event | Significance |
-|------|-------|--------------|
-| 1978 | Jesse Marcel interview | Stanton Friedman interviews Marcel, reigniting interest |
-| 1980 | *The Roswell Incident* published | First major book on the case |
-| 1994 | Project Mogul report | USAF explains debris as classified balloon |
-| 1997 | Crash test dummy report | USAF explains body claims as test dummies |
-| 2002 | Walter Haut deathbed statement | Former PAO claims to have seen bodies |
+### Foster ranch debris recovery ⭐
+> **Date**: 1947-07-08  
+> **Location**: J. B. Foster sheep ranch, Lincoln County, New Mexico, north-west of Roswell  
+> **Witnesses**: 4 (Rancher (Mac Brazel), Sheriff (George Wilcox), Major / intelligence officer (Jesse Marcel), Captain / counter-intelligence (Sheridan Cavitt))  
+> **Evidence**: Roswell Daily Record (1947-07-08) coverage; Ramey office photographs (1947-07-09); USAF Roswell Reports (1994, 1997)  
+Mac Brazel discovered a debris field on his employer's ranch in late June or early July 1947 and reported it to Sheriff George Wilcox in Roswell. RAAF intelligence officer Major Jesse Marcel and Captain Sheridan Cavitt examined the debris on 7 July. On 8 July 1947 the RAAF public information officer, 1st Lt. Walter Haut, issued a press release describing the recovery of a 'flying disc'. The next day, Brigadier General Roger Ramey publicly reidentified the material as a weather balloon and Rawin radar target. The 1994 and 1997 USAF reports identify the debris as Flight 4 of Project Mogul.
+**Credibility**: high — The event itself — the recovery of debris and the press release — is fully documented; the dispute concerns its interpretation.
+**Sources**: Roswell Daily Record (1947-07-08); USAF (1995), The Roswell Report: Fact vs. Fiction in the New Mexico Desert; USAF (1997), The Roswell Report: Case Closed
 
 ---
 
-## Key Figures
 
-| Name | Role | Significance |
-|------|------|--------------|
-| **Mac Brazel** | Rancher | Discovered debris field on Foster Ranch |
-| **Major Jesse Marcel** | Intelligence Officer, RAAF | First military to examine debris, later claimed it was extraterrestrial |
-| **Colonel William Blanchard** | Base Commander, RAAF | Authorized "flying disc" press release |
-| **General Roger Ramey** | Commanding General, 8th Air Force | Changed story to weather balloon |
-| **Stanton Friedman** | Nuclear Physicist/Researcher | Reignited interest in 1978, leading researcher |
+## Evidence
 
----
+### Physical
 
-## The Debris
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Ramey office photographs | 1947-07-09 | Press photographs taken in Brigadier General Roger Ramey's Fort Worth office showing fragments of foil-like material, balsa-like sticks, and rubberized fabric. | verified |
+### Documentary
 
-### Witness Descriptions
-
-Witnesses described unusual materials unlike anything known in 1947:
-
-| Material | Description | Source |
-|----------|-------------|--------|
-| **Memory metal** | Thin metal that returned to original shape when crumpled | Jesse Marcel |
-| **I-beams** | Small beams with hieroglyphic-like symbols | Multiple witnesses |
-| **Foil material** | Extremely thin, lightweight, could not be cut or burned | Multiple witnesses |
-| **Fiber strands** | Thin fibers described as unlike anything known | Jesse Marcel Jr. |
-
-### Official Explanation
-
-The U.S. Air Force identified the debris as part of **Project Mogul**, a classified program using high-altitude balloon arrays to detect Soviet nuclear tests. The materials described match balloon and radar reflector components.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| RAAF flying-disc press release | 1947-07-08 | Press release issued by RAAF public information officer 1st Lt. Walter Haut announcing the recovery of a 'flying disc' from a ranch near Roswell. | verified |
+| The Roswell Report: Fact vs. Fiction in the New Mexico Desert | 1994 | Official US Air Force report identifying the 1947 debris as Flight 4 of Project Mogul. | verified |
+| The Roswell Report: Case Closed | 1997 | Follow-up USAF report addressing later 'alien body' accounts. | verified |
+| GAO records review | 1995 | US General Accounting Office report on the search for federal records concerning the Roswell incident, requested by Congressman Steven Schiff. | verified |
 
 ---
-
-## Alleged Alien Bodies
-
-### The Claims
-
-Starting in 1978, witnesses came forward claiming to have seen small humanoid bodies:
-- **Description**: Small bodies, large heads, gray skin, large eyes
-- **Witness count**: Approximately 12 individuals
-- **First reported**: 31 years after the event
-- **Locations claimed**: Various (crash site, base hospital, hangar)
-
-### Official Explanation
-
-The 1997 Air Force report attributed body claims to:
-- **Crash test dummies**: Anthropomorphic test dummies dropped in New Mexico in the 1950s
-- **Memory conflation**: Witnesses confusing time periods and separate events
-- **High-altitude test program**: Parachute tests using human-shaped dummies
-
-### Skeptical Analysis
-
-- No contemporary (1947) reports of bodies
-- All body claims emerged 30+ years later
-- Inconsistent descriptions between witnesses
-- No physical evidence
-
----
-
 ## Theories & Explanations
 
-### Extraterrestrial Hypothesis
+### Paranormal / Cryptozoological
 
-**Claim**: Alien spacecraft crashed, recovered by military with alien bodies, massive cover-up initiated
+**Extraterrestrial craft and crew** _(Stanton T. Friedman, Charles Berlitz, William L. Moore, Kevin Randle, Donald Schmitt)_
 
-**Proponents**: Stanton Friedman, Kevin Randle, Donald Schmitt
+Hypothesis that the debris was the wreckage of an extraterrestrial vehicle and that several alien occupants were recovered alive or dead, with the US government concealing the find.
 
-**Evidence Cited**:
-- Multiple witness testimonies
-- Exotic debris descriptions
-- Rapid military response and secrecy
-- Original "flying disc" press release
-- Alleged threats to witnesses
+### Scientific
 
-### Official Explanation: Project Mogul
+**Project Mogul Flight 4** _(United States Air Force, Charles B. Moore (NYU project participant), Karl T. Pflock, Robert G. Todd)_
 
-**Claim**: Debris from classified balloon array, secrecy due to Cold War classification
+Hypothesis, accepted by the US Air Force and mainstream historians, that the debris was a failed Flight 4 of Project Mogul — a classified high-altitude balloon train carrying a low-frequency acoustic sensor designed to detect Soviet nuclear tests — launched from Alamogordo on 4 June 1947 and lost from radar near the Foster ranch.
 
-**Proponents**: U.S. Air Force, Charles B. Moore (Mogul engineer)
+### Skeptical
 
-**Evidence**:
-- Balloon materials match debris descriptions
-- Project Mogul Flight 4 unaccounted for
-- Launched from Alamogordo, could have reached site
-- Classified nature explains military secrecy
-- Radar reflector design matches "I-beam" descriptions
+**Conflation with parachute-test dummies** _(United States Air Force, James McAndrew)_
 
-### Alternative Theories
+Hypothesis that the post-1978 'alien body' accounts conflate later (1953–1959) high-altitude parachute-test dummy drops at White Sands and the Tularosa Basin with the 1947 debris recovery.
 
-**Soviet/Nazi Craft**: Experimental aircraft from captured technology (Annie Jacobsen)
+**Memory drift and folklore construction** _(Karl T. Pflock, Joe Nickell, Benjamin Radford, Donald Prothero)_
 
-**Psychological Phenomenon**: Cultural myth created by misidentification and media amplification
+Most post-1978 Roswell witness accounts are reconstructions thirty years after the fact, shaped by intervening UFO literature and television coverage.
 
----
 
-## Evidence Analysis
+## Popular Culture
 
-### Physical Evidence: **None Available**
+**Literature**: The Roswell Incident — Charles Berlitz & William L. Moore (1980); Crash at Corona — Stanton T. Friedman & Don Berliner (1992); UFO Crash at Roswell — Kevin D. Randle & Donald R. Schmitt (1991); Roswell in Perspective — Karl T. Pflock (1994); Roswell: Inconvenient Facts and the Will to Believe — Karl T. Pflock (2001); The Roswell Report: Case Closed — United States Air Force (1997)
 
-All alleged debris was removed by the military and never made publicly available. No verifiable samples exist.
+**Film / TV**: Roswell (1994 Showtime TV film); Roswell (TV series, 1999–2002, The WB); Roswell, New Mexico (TV series, 2019–2022, The CW); The X-Files (Fox, 1993–2018) — references throughout; Independence Day (1996); Alien Autopsy (BBC documentary on the 1995 hoax, 2006)
 
-### Photographic Evidence
+**Games**: Destroy All Humans! (2005 onwards) — Roswell-style 1950s setting; Fallout: New Vegas — references to a Roswell-style crash
 
-| Item | Description | Status |
-|------|-------------|--------|
-| Ramey memo | Photo shows general holding memo with partially legible text | Disputed interpretation |
-| Weather balloon photos | Debris displayed at press conference | Verified, but disputed if original debris |
-
-### Testimonial Evidence
-
-| Source | Description | Credibility |
-|--------|-------------|-------------|
-| Jesse Marcel (1978+) | Described exotic debris properties | Medium - consistent but delayed |
-| Glenn Dennis | Claimed nurse told him about bodies | Low - nurse never found |
-| Walter Haut (2002) | Deathbed claim of seeing bodies | Disputed - unverifiable |
+**Other**: International UFO Museum and Research Center, Roswell, NM; Roswell UFO Festival (annual since 1996); Roswell branding throughout the city, including alien-themed lampposts and businesses
 
 ---
+## Research
 
-## Cultural Impact
+### Researchers
 
-### Roswell Tourism
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Stanton T. Friedman | Independent (nuclear physicist by training) | 1978 interview of Jesse Marcel; long-running advocacy for the extraterrestrial hypothesis | 1978–2019 |
+| Charles Berlitz | Author | Co-author with William Moore of The Roswell Incident (1980) | 1980 |
+| William L. Moore | Independent ufologist | Co-author of The Roswell Incident; later distanced from some conclusions | 1980–1990s |
+| Kevin D. Randle | Independent (US Air Force veteran) | Co-author of multiple Roswell books; revised positions over time | 1991–present |
+| Donald R. Schmitt | Independent ufologist | Co-author with Randle of UFO Crash at Roswell (1991) and follow-up volumes | 1991–present |
+| Karl T. Pflock | Independent (former CIA officer) | Major skeptical investigation of the case; argued for Project Mogul before the 1994 USAF report | 1992–2006 |
+| Charles B. Moore | New Mexico Institute of Mining and Technology (atmospheric physicist) | Project Mogul scientist who reconstructed Flight 4 trajectory and material | 1992–2010 |
+| James McAndrew | United States Air Force | Lead author of the 1997 USAF Roswell Report: Case Closed | 1995–1997 |
 
-Roswell leveraged its UFO fame into a tourism industry:
-- **International UFO Museum and Research Center**
-- **Annual UFO Festival** (July)
-- Alien-themed businesses citywide
-- Self-proclaimed "Alien Capital of the World"
+### Organizations
 
-### Popular Culture Influence
+- [International UFO Museum and Research Center](https://www.roswellufomuseum.com) — Public exhibition and archive of Roswell incident materials
+- [Mutual UFO Network (MUFON)](https://www.mufon.com) — Citizen UFO investigation (active in Roswell follow-up reporting)
+- [Center for UFO Studies (CUFOS)](https://www.cufos.org) — Cataloguing and study of UFO reports including Roswell
+- [Center for Inquiry](https://www.centerforinquiry.org) — Skeptical investigation of paranormal claims
 
-**Literature**:
-- *The Roswell Incident* (Berlitz & Moore, 1980)
-- *Crash at Corona* (Friedman & Berliner, 1992)
-- *The Day After Roswell* (Corso, 1997)
-
-**Film/TV**:
-- *Roswell* (TV series, 1999-2002)
-- *Independence Day* (1996) - Area 51 connection
-- *The X-Files* - mythology inspired by Roswell
-- *Roswell, New Mexico* (2019-2022)
-
-**Legacy**:
-- Template for crash/retrieval narratives
-- Foundation of modern UFO conspiracy theories
-- Government cover-up archetype
+Active interest centres on declassification of Cold War-era atmospheric and intelligence records, on continued archival work surrounding Project Mogul, and on cultural-history scholarship of the post-1978 Roswell narrative (notably Kathleen Beckwith Stewart, Bridget Brown, and others).
 
 ---
+## Sources
 
-## Government Response
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### Official Reports
 
-1. **1947**: Weather balloon
-2. **1994**: *The Roswell Report: Fact vs. Fiction* - Project Mogul explanation
-3. **1997**: *The Roswell Report: Case Closed* - Crash test dummy explanation
+## How to Report a Sighting
 
-### Classification Context
-
-Project Mogul was classified until the 1990s, explaining why the military would not reveal the true nature of the debris in 1947. The cover story (weather balloon) was plausible and protected classified technology.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Current Status
-
-| Aspect | Status |
-|--------|--------|
-| **Official Explanation** | Project Mogul balloon (1994) |
-| **Public Belief** | Widely disputed - many believe extraterrestrial |
-| **Physical Evidence** | None publicly available |
-| **Active Research** | Historical analysis only |
-| **Cultural Status** | Foundation of UFO culture |
-
----
-
-## Critical Questions
-
-### Unresolved Issues
-
-1. Why did Colonel Blanchard authorize "flying disc" press release?
-2. What explains the rapid press release retraction?
-3. Why were witnesses allegedly threatened into silence?
-4. Does the Ramey memo mention "victims"?
-
-### Skeptical Counterpoints
-
-1. No contemporary reports of bodies (all came 30+ years later)
-2. Project Mogul materials match debris descriptions
-3. No physical evidence has ever been produced
-4. Memory reliability over decades questionable
-
----
-
-## How to Research
-
-### Primary Sources
-- U.S. Air Force reports (1994, 1997)
-- 1947 newspaper archives
-- Declassified Project Mogul documents
-
-### Databases
-- International UFO Museum archives
-- National Archives (military records)
-
-### Critical Approach
-When researching Roswell:
-- Verify witness testimony dates
-- Check witness credibility and consistency
-- Distinguish contemporary vs. later claims
-- Examine evidence chain of custody
-- Consider psychological and cultural factors
-
----
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const roswell = await wyrd.getPhenomenon('roswell-incident');
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Key Sources
-- U.S. Air Force. (1994). *The Roswell Report: Fact vs. Fiction in the New Mexico Desert*
-- U.S. Air Force. (1997). *The Roswell Report: Case Closed*
-- Friedman, S.T. & Berliner, D. (1992). *Crash at Corona*
-- Berlitz, C. & Moore, W.L. (1980). *The Roswell Incident*
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
